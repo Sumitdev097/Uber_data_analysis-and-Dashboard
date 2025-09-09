@@ -85,3 +85,4 @@ Quick view of customer profiles with trips, cancellations, and revenue contribut
 👥 Customer Relationship: Highlights top customers for loyalty rewards, retention, or marketing campaigns.
 
 Screenshots / Demo
+https://github.com/Sumitdev097/Uber_data_analysis-and-Dashboard/blob/main/uber_dashboard_sc.png
